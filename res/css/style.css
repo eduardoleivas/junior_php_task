@@ -1,0 +1,39 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+form {
+    text-align: center;
+}
+
+form .button {
+    margin: 20px;
+}
+
+h2, h3, p{
+    text-align: center;
+}
+
+div{
+    margin-bottom: 10px;
+}
+label {
+    display: inline-block;
+    width: 110px;
+    color: #777777;
+}
+input {
+    padding: 5px 10px;
+}
