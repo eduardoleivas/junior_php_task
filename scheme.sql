@@ -33,5 +33,3 @@ INSERT INTO agendamento (tel, datahora) VALUES
 ('22999991111', '2023-02-25 16:00:00'),
 ('22999992222', '2023-03-01 07:20:00'),
 ('22999992222', '2022-03-01 07:20:00');
-
-SELECT p.nome, a.datahora FROM paciente p, agendamento a WHERE p.tel = a.tel;
