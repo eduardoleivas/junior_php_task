@@ -1,5 +1,5 @@
 # junior_php_task
-Task de Desenvolvimento WEB Simples implementada utilizando recursos de linguagens como HTML, PHP e JavaScript, assim como a utilização de um CRUD básico via Banco de Dados Relacional MySQL, o projeto conta com:
+Task de Desenvolvimento WEB Simples implementada utilizando recursos de linguagens como HTML, PHP 8.2 e JavaScript, assim como a utilização de um CRUD básico via Banco de Dados Relacional MySQL, o projeto conta com:
 
 Página de Login (login.php)
 > - Confirmação da existência de sessão já iniciada e redirecionamento automático à página de login, caso necessário;</br>
